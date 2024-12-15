@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "compilar",
+            "type": "shell",
+            "command": "gcc",  // Comando do compilador (gcc ou outro)
+            "args": [
+                "-g",  // Ativa o modo de depuração (opcional)
+                "-I/usr/include",  // Caminho onde a cs50.h está localizada
+                "plurality.c",  // Nome do seu código fonte
+                "-o", 
+                "plurality"  // Nome do executável gerado
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],  // Para detectar erros de compilação
+            "detail": "Compilando código com gcc"
+        }
+    ]
+}

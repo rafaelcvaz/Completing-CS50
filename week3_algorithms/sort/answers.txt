@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: When we run sort1 with random5000 and random50000, we can see the time increases a lot, which makes sense considering O(n²) of this method. We can also see that when we run sort1 for sorted values, the program runs a lot faster, because the omega(n) and not n² anymore, and it doesn't increase that much from 5000 to 50000, because its omega(n).
+
+sort2 uses: Merge Sort
+
+How do you know?: It's the fastest, sort2 doesn't take more than 1 second even for random50000. It also doesn't vary a lot from random to sorted, because both O and omega are nlogn
+
+sort3 uses: Selection Sort
+
+How do you know?: The time sort3 takes to run 5000 and 50000 increases a lot in random, sorted and reversed. This suggests its O and omega n². 
