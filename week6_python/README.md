@@ -1,0 +1,7 @@
+## Description
+The file [**hello.py**](https://cs50.harvard.edu/college/2024/spring/psets/6/hello/) implements that classic and simple "Hello, world" program.\
+The file [**cash.py**](https://cs50.harvard.edu/college/2024/spring/psets/6/cash/) implements a program that get's a cash value from user and prints the minimum number of coins necessary to return this cash.\
+The file [**credit.py**](https://cs50.harvard.edu/college/2024/spring/psets/6/credit/) implements the same Credit Program of week 2, but in Python. It prompts the user for a credit card number and prints if it's valid and what type of card it is.\
+The file [**mario.py**](https://cs50.harvard.edu/college/2024/spring/psets/6/mario/less/) implements the mario piramids problem, it prompts the user for a specific height number and prints a half piramid of that height.\
+The file [**readability**](https://cs50.harvard.edu/college/2024/spring/psets/6/readability/) implements the readibility problem suggested on week 2, it prompts the user for a text and returns the grade level based on the number of letters, words and sentences.\
+The folder **dna** contains files related to the [dna](https://cs50.harvard.edu/college/2024/spring/psets/6/dna/) exercise. This program uses a database of subjects with respective STRs counts (sequences of DNA that repeats as blocks, the number of repetitions of various STRs can be used for identifing samples of DNA), and compares this databases with sequences of DNA to search for matches. The output is the name of the person that matched a specific DNA sequence. 
