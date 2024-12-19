@@ -1,3 +1,3 @@
 ## Description
-The folder **credit_cards** contains files to solve the [credit cards](https://cs50.harvard.edu/college/2024/spring/psets/1/credit/) exercise in Problem Set 1. This exercise implements Luhn's Algorithm to check if a credit card number is valid, and if it is, returns what type of card it is based on its number.
+The folder **credit_cards** contains files to solve the [credit cards](https://cs50.harvard.edu/college/2024/spring/psets/1/credit/) exercise in Problem Set 1. This exercise implements Luhn's Algorithm to check if a credit card number is valid, and if it is, returns what type of card it is based on its number.\
 The folder **mario_piramids** contains files to solve the [mario piramids](https://cs50.harvard.edu/college/2024/spring/psets/1/mario/more/) exercise in Problem Set 1. This exercise prompts the user for specific height, and then prints a piramid of '#' of that specific size.
